@@ -1,6 +1,6 @@
 # web_scrapping_startup_swiss
 
-Scripts to get a list of startups from Switzerland (repo and data at the end of the post)
+Scripts to get a list of startups from Switzerland 
 
 Right now I am looking for a job in Switzerland, more specifically in Lausanne or the Vaud region. I also have the personal requirement that I would like to work in a technology company where I can develop myself technically.
 
